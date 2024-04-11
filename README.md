@@ -122,7 +122,7 @@ material, and those who created the transcripts
 and translations.
 
 
-## Bias, Risks, and Limitations
+## Limitations
 
 <!-- This section is meant to convey both technical and sociotechnical limitations. -->
 This dataset stems from a series of manually annotated
