@@ -1,6 +1,10 @@
 # EHRI-NER
 
-## Dataset Card for ehri-ner/ehri-ner-all
+In this repository, we release the EHRI-NER dataset for training Holocaust-related NER models. This dataset is split into subsets divided by language but we have also released a merged dataset, which you can access on [Hugging Face](https://huggingface.co/datasets/ehri-ner/ehri-ner-all).
+
+***We have also released a multilingual NER model, which you can access on [Hugging Face](https://huggingface.co/ehri-ner/xlm-roberta-large-ehri-ner-all).***
+
+## Dataset Card for the EHRI-NER dataset
 
 <!-- Provide a quick summary of the dataset. -->
 The European Holocaust Research Infrastructure (EHRI) aims to support Holocaust research by making information
@@ -17,9 +21,9 @@ suitable for training NER models.
 ## Dataset Details
 
 The EHRI-NER dataset includes a total of
-505758 tokens, with 5351 person entities, 9399
-location entities, 1867 organization entities, 2237
-date entities, 528 ghetto entities, and 1229 camp
+505758 tokens, with 5351 **person** entities, 9399
+**location** entities, 1867 **organization** entities, 2237
+**date** entities, 528 **ghetto** entities, and 1229 **camp**
 entities.
 
 
