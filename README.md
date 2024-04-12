@@ -81,6 +81,19 @@ German (de), English (en), French (fr), Hungarian
 (hu), Dutch (nl), Polish (pl), Slovak (sk), and Yiddish
 (yi).
 
+### Annotation format
+Each word has been put on a separate line and there is an empty line after each sentence.
+
+The annotations follow the conll2003 format (IOB).
+
+### Entity Classes
+PER
+LOC
+ORG
+DATE
+CAMP
+GHETTO
+
 - **Curated by:** EHRI
 - **Funded by:** European Commission call H2020-INFRAIA-2018–2020. Grant agreement ID 871111. DOI 10.3030/871111.
 - **Shared by:** Dermentzi, M. & Scheithauer, H.
